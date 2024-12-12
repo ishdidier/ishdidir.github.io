@@ -1,0 +1,9 @@
+body{
+    background-image: url("photos/rwandair.jpeg");
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+}
+.col{
+    padding-top: 80px;
+}
